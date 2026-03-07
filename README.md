@@ -172,15 +172,7 @@ These achievements reflect contributions, pull requests, and participation withi
 
 </p>
 
----
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NavDevs&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
 
 ---
 
