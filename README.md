@@ -106,9 +106,9 @@ These achievements reflect contributions, pull requests, and participation withi
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavDevs&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavDevs&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -134,11 +134,11 @@ These achievements reflect contributions, pull requests, and participation withi
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NavDevs&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NavDev&theme=tokyo-night"/>
 
 </p>
 
