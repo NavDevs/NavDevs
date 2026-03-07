@@ -115,9 +115,7 @@ My goal is to become a **high-impact software engineer**, contribute to open-sou
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="120">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120">
 
 </p>
 
