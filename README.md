@@ -6,48 +6,97 @@ Full Stack Developer • AI Enthusiast • Open Source Learner
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Enthusiast;Always+Learning+New+Things" />
 
 </p>
 
 ---
 
-# 🚀 About Me
+# 🏅 Developer Badges
 
-I am a passionate developer who enjoys building software, solving complex problems, and continuously learning new technologies.
+<p align="center">
 
-I love creating full-stack applications, experimenting with modern frameworks, and improving my understanding of system design and scalable architecture.
+<img src="https://komarev.com/ghpvc/?username=NavDevs&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
-My goal is to become a **high-impact software engineer** who builds products that help people and businesses.
+<img src="https://img.shields.io/github/followers/NavDevs?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/NavDevs?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+Hello! I'm **Naveen**, a passionate developer who enjoys building software, solving complex problems, and learning new technologies.
+
+I love working on **full stack development**, creating scalable backend systems and beautiful frontend interfaces.
+
+I constantly explore modern tools, frameworks, and development practices to improve my engineering skills and build impactful software.
+
+My goal is to become a **high-level software engineer who builds products used by millions of people**.
+
+---
+
+# 🚀 What I Do
+
+• Build **full stack web applications**  
+• Design **backend APIs and systems**  
+• Learn **AI, automation, and modern technologies**  
+• Contribute to **open source projects**  
+• Continuously improve my **coding and problem solving skills**
 
 ---
 
 # 🧠 Tech Stack
 
-### Languages
+### Programming Languages
+
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
 
-### Frontend
+---
+
+### Frontend Development
+
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
-### Backend
+---
+
+### Backend Development
+
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 
-### Database
+---
+
+### Databases
+
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
+---
+
 ### Tools
+
 ![Git](https://skillicons.dev/icons?i=git)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
+---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavDevs&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavDevs&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
@@ -55,17 +104,7 @@ My goal is to become a **high-impact software engineer** who builds products tha
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NavDevs&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy Board
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NavDevs&theme=tokyonight&no-frame=true&margin-w=10&v=1"/>
+<img src="https://streak-stats.demolab.com?user=NavDevs&theme=tokyonight"/>
 
 </p>
 
@@ -91,27 +130,31 @@ My goal is to become a **high-impact software engineer** who builds products tha
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/NavDevs">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
+# 💡 Fun Fact
 
+I enjoy exploring new technologies, building side projects, and constantly improving my development skills.
+
+Coding is not just work for me — it's creativity, logic, and innovation combined.
 
 ---
 
