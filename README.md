@@ -10,19 +10,7 @@ Full Stack Developer • AI Enthusiast • Open Source Learner
 
 </p>
 
----
 
-# 🏅 Developer Badges
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NavDevs&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/NavDevs?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/NavDevs?style=for-the-badge"/>
-
-</p>
 
 ---
 
