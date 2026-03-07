@@ -47,17 +47,7 @@ My goal is to become a **high-impact software engineer** who builds products tha
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavDevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavDevs&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
