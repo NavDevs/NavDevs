@@ -53,9 +53,9 @@ My goal is to become a **high-impact software engineer** who builds products tha
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavDevs&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavDevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavDevs&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavDevs&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -121,13 +121,7 @@ My goal is to become a **high-impact software engineer** who builds products tha
 
 ---
 
-# 👀 Profile Views
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NavDevs&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
 
 ---
 
