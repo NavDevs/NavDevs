@@ -184,12 +184,4 @@ const naveen = {
 
 ---
 
-## 📋 Deploy Now:
 
-1. Go to **https://github.com/NavDevs/NavDevs**
-2. Click ✏️ **Edit README.md**
-3. **Delete everything** and **paste** the code above
-4. Click **"Commit changes"**
-
-Your profile will be live in 1-2 minutes! 🚀
-**
