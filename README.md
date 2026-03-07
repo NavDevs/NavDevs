@@ -65,7 +65,7 @@ My goal is to become a **high-impact software engineer** who builds products tha
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NavDevs&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NavDevs&theme=tokyonight&no-frame=true&margin-w=10&v=1"/>
 
 </p>
 
