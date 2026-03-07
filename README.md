@@ -105,6 +105,23 @@ My goal is to become a **high-impact software engineer**, contribute to open-sou
 </p>
 
 ---
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="120">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120">
+
+</p>
+
+---
 
 # 🌍 Connect With Me
 
