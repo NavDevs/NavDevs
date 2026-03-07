@@ -1,104 +1,51 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 
 <h3 align="center">
-Full Stack Developer • AI Enthusiast • Problem Solver • Open Source Learner
+Full Stack Developer • AI Enthusiast • Open Source Learner
 </h3>
 
 <p align="center">
-Building software, learning constantly, and sharing knowledge through code.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Enthusiast;Always+Learning+New+Things" />
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-Hello! I'm **Naveen**, a passionate developer who enjoys building software, solving real-world problems, and constantly learning new technologies.
+I am a passionate developer who enjoys building software, solving complex problems, and continuously learning new technologies.
 
-My journey in programming started with curiosity about how digital systems work, and since then I’ve been continuously exploring different areas of software development including backend systems, web applications, artificial intelligence, and scalable architecture.
+I love creating full-stack applications, experimenting with modern frameworks, and improving my understanding of system design and scalable architecture.
 
-I enjoy working across the **full stack**, designing intuitive user interfaces while also building efficient backend systems. My goal is to create software that is not only functional but also elegant, maintainable, and scalable.
-
-I believe that great developers are always learning, always experimenting, and always improving their craft. Every project I build helps me grow as an engineer and pushes me to explore new technologies and solutions.
-
----
-
-# 🚀 What I Do
-
-• Build **full stack applications**  
-• Design **scalable backend systems**  
-• Create **interactive user interfaces**  
-• Experiment with **AI and automation**  
-• Contribute to **open-source projects**  
-• Continuously learn **modern development tools**
-
----
-
-# 🎯 Goals
-
-My long-term goals include:
-
-• Becoming a **world-class software engineer**  
-• Building **impactful technology products**  
-• Contributing to **large open-source ecosystems**  
-• Mastering **system design and distributed systems**  
-• Exploring **AI, machine learning, and automation**
+My goal is to become a **high-impact software engineer** who builds products that help people and businesses.
 
 ---
 
 # 🧠 Tech Stack
 
-## Programming Languages
+### Languages
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
----
+### Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-## Frontend Development
+### Database
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-
----
-
-## Backend Development
-
-![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
-
-## Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-
----
-
-## Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
----
-
-# 🏅 Achievements
-
-<p align="center">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120">
-
-</p>
-
-These achievements reflect contributions, pull requests, and participation within the GitHub community.
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
@@ -106,9 +53,9 @@ These achievements reflect contributions, pull requests, and participation withi
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavDevs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavDevs&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -128,17 +75,17 @@ These achievements reflect contributions, pull requests, and participation withi
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NavDevs&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NavDevs&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NavDev&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NavDevs&theme=tokyo-night"/>
 
 </p>
 
@@ -154,7 +101,7 @@ These achievements reflect contributions, pull requests, and participation withi
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -172,20 +119,20 @@ These achievements reflect contributions, pull requests, and participation withi
 
 </p>
 
-
-
 ---
 
-# 💡 Fun Fact
+# 👀 Profile Views
 
-I enjoy exploring new technologies, building side projects, and constantly improving my development skills.
+<p align="center">
 
-Coding for me is not just work — it is creativity, problem solving, and innovation combined together.
+<img src="https://komarev.com/ghpvc/?username=NavDevs&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
 
 ---
 
 <p align="center">
 
-⭐ If you like my work, consider starring my repositories.
+⭐ If you like my work, consider starring my repositories!
 
 </p>
