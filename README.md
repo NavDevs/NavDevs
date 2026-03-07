@@ -1,8 +1,4 @@
-# 🚀 UPDATED GITHUB PROFILE — COPY-PASTE READY
 
-Here's your **updated README.md** with the correct information from your LinkedIn:
-
-```markdown
 <!-- Animated Header -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="header" width="100%"/>
@@ -196,3 +192,4 @@ const naveen = {
 4. Click **"Commit changes"**
 
 Your profile will be live in 1-2 minutes! 🚀
+**
