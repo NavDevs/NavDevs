@@ -16,13 +16,11 @@ Full Stack Developer • AI Enthusiast • Open Source Learner
 
 # 👨‍💻 About Me
 
-Hello! I'm **Naveen**, a passionate developer who enjoys building software, solving complex problems, and learning new technologies.
+Hello! I'm **Naveen**, a passionate developer who enjoys building software, solving complex problems, and continuously learning new technologies.
 
-I love working on **full stack development**, creating scalable backend systems and beautiful frontend interfaces.
+I enjoy working across **full stack development**, building scalable backend systems and modern frontend interfaces.
 
-I constantly explore modern tools, frameworks, and development practices to improve my engineering skills and build impactful software.
-
-My goal is to become a **high-level software engineer who builds products used by millions of people**.
+My goal is to become a **high-impact software engineer**, contribute to open-source communities, and build software that helps people and businesses.
 
 ---
 
@@ -32,7 +30,7 @@ My goal is to become a **high-level software engineer who builds products used b
 • Design **backend APIs and systems**  
 • Learn **AI, automation, and modern technologies**  
 • Contribute to **open source projects**  
-• Continuously improve my **coding and problem solving skills**
+• Improve **problem solving and development skills**
 
 ---
 
@@ -126,12 +124,12 @@ My goal is to become a **high-level software engineer who builds products used b
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/naveen-s-b77a03343/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+<a href="mailto:huesh180@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -140,7 +138,7 @@ My goal is to become a **high-level software engineer who builds products used b
 
 # 💡 Fun Fact
 
-I enjoy exploring new technologies, building side projects, and constantly improving my development skills.
+I enjoy exploring new technologies, building projects, and improving my coding skills every day.
 
 Coding is not just work for me — it's creativity, logic, and innovation combined.
 
