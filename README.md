@@ -14,15 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NavDevs/count.svg" alt="Visitor Count" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NavDevs&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=NavDevs&style=for-the-badge&color=00FF9D&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
 ---
@@ -76,10 +68,12 @@ I am a passionate developer who builds scalable software, solves complex problem
 
 ---
 
-### 💡 Daily Programming Quote
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120">
 </p>
 
 ---
