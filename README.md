@@ -16,7 +16,6 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
@@ -44,17 +43,42 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- TECH STACK -->
+<!-- IN-DEPTH TECH STACK SECTION -->
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35" /> Tech Stack & Arsenal
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35" /> Technical Expertise & Architecture
 </h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" /><br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,mysql,redis" /><br><br>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vercel,firebase" />
-</p>
+<br>
+
+#### 🌐 Frontend Architecture
+> *The frontend is the visual layer and interactive experience of an application, responsible for executing logic directly in the user's browser.*
+
+I specialize in crafting highly interactive, responsive, and accessible user interfaces. Using modern frameworks like **React** and **Next.js** alongside utility-first CSS like **Tailwind**, I build seamless single-page applications (SPAs) and fast server-side rendered (SSR) platforms that provide exceptional user experiences.
+<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /></p>
+
+#### ⚙️ Backend & Distributed Systems
+> *The backend is the engine that powers an application. It handles business logic, security, data processing, and client-server communication.*
+
+I engineer robust, scalable REST APIs and microservices using **Node.js** and **Express**. My core focus includes designing secure OAuth/JWT authentication flows, building real-time data synchronization pipelines using **WebSockets**, and interacting seamlessly with databases via advanced ORMs like **Prisma**.
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,prisma" /></p>
+
+#### 🗄️ Databases & Caching
+> *Databases are the foundation of stateful applications, ensuring long-term data integrity, structural relationships, and high-speed retrieval.*
+
+I have extensive experience modeling complex data relationships in relational databases like **PostgreSQL** and **MySQL**, as well as handling flexible, document-based data in NoSQL databases like **MongoDB**. For high-speed operations and real-time collaboration, I utilize in-memory data stores like **Redis**.
+<p align="left"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" /></p>
+
+#### 🚀 DevOps, Infrastructure & Tooling
+> *DevOps bridges the gap between writing code and delivering reliable software to millions of users globally.*
+
+I utilize **Git** for strict version control and **Docker** for containerizing applications, ensuring complete consistency across development and production environments. I am comfortable managing **Linux** servers and deploying scalable systems using platforms like **Vercel** and **Firebase**.
+<p align="left"><img src="https://skillicons.dev/icons?i=git,docker,linux,vercel,firebase" /></p>
+
+#### 💻 Core Programming Languages
+> *A strong foundation across multiple programming paradigms allows me to pick the right tool for any architectural challenge.*
+
+From deep systems-level engineering and memory management in **C/C++**, to enterprise software architecture in **Java**, to rapid AI/ML prototyping in **Python**, and full-stack web development with strongly-typed **TypeScript** & **JavaScript**.
+<p align="left"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" /></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -62,7 +86,7 @@
 
 <!-- CORE ENGINEERING FOCUS -->
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> Core Engineering Focus
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> Current Operational Status
 </h3>
 
 <p align="center">
