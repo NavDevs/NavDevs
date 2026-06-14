@@ -13,9 +13,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NavDevs&style=for-the-badge&color=00FF9D&label=PROFILE+VIEWS" alt="Visitor Count" />
-</p>
+
 
 ---
 
