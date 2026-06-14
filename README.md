@@ -5,13 +5,13 @@
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> 
-  Full Stack Developer • AI Enthusiast • Open Source Learner 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" />
+  Full Stack Developer • Real-Time Systems • Open Source 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" />
 </h3>
 
 <p align="center">
   <a href="https://github.com/NavDevs">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps...;Designing+Real-Time+Systems...;Training+AI+%26+ML+Models...;Contributing+to+Open+Source...;Always+Learning+New+Tech!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps...;Architecting+Real-Time+Systems...;Engineering+Backend+APIs...;Contributing+to+Open+Source...;Always+Learning+New+Tech!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,11 +29,11 @@
     <tr>
       <td width="60%">
         <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35" /> About Me & What I Do</h3>
-        <p>I am a passionate developer who builds scalable software, solves complex problems, and continuously explores modern technologies. My focus spans across full-stack web apps, systems-level engineering, and real-time networking.</p>
-        <p>🔭 <b>Currently Building:</b> Real-time collaboration tools & AI systems.</p>
-        <p>⚡ <b>Core Focus:</b> React, Next.js, WebSockets, Yjs CRDTs, and DPI engines.</p>
-        <p>🌱 <b>Learning:</b> Advanced Systems Design and Cloud architectures.</p>
-        <p>🎯 <b>Goal:</b> Become a high-impact software engineer.</p>
+        <p>I am a passionate software engineer focused on building highly scalable applications, solving complex architectural problems, and continuously exploring modern distributed systems.</p>
+        <p>🔭 <b>Currently Building:</b> Real-time collaboration tools & DPI networking systems.</p>
+        <p>⚡ <b>Core Focus:</b> Next.js, WebSockets, Yjs CRDTs, C++, and PostgreSQL.</p>
+        <p>🌱 <b>Learning:</b> Advanced Systems Design, Cloud Architecture, and AI Integration.</p>
+        <p>🎯 <b>Goal:</b> Deliver high-impact software that solves real-world engineering challenges.</p>
       </td>
       <td width="40%" align="center">
         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius: 15px;" />
@@ -48,7 +48,7 @@
 
 <!-- TECH STACK -->
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Tech Stack & Arsenal
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35" /> Tech Stack & Arsenal
 </h3>
 
 <p align="center">
@@ -56,6 +56,21 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /><br><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,mysql,redis" /><br><br>
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vercel,firebase" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+<!-- CORE ENGINEERING FOCUS (Replaces Jokes Section) -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> Core Engineering Focus
+</h3>
+
+<p align="center">
+  <a href="https://github.com/NavDevs">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9D&background=0D1117&center=false&vCenter=true&width=600&lines=>+Initializing+workspace...;>+Compiling+systems+architecture...;>+Deploying+real-time+services...;>+Optimizing+backend+performance...;>+Establishing+secure+connections..." alt="Terminal Animation" />
+  </a>
 </p>
 
 <p align="center">
@@ -87,20 +102,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-<!-- JOKES AND QUOTES -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" width="35" /> Developer Humor & Quotes
-</h3>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="48%" />
 </p>
 
 <p align="center">
