@@ -15,6 +15,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NavDevs&style=for-the-badge&color=00FF9D&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -59,7 +62,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- CORE ENGINEERING FOCUS (Replaces Jokes Section) -->
+<!-- CORE ENGINEERING FOCUS -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> Core Engineering Focus
 </h3>
@@ -84,8 +87,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavDevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
 
+<!-- BIG SYSTEMS ANIMATION -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavDevs&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://i.pinimg.com/originals/1c/aa/c5/1caac55143e3e11461c6ae59624b0f00.gif" alt="Data Flow Animation" width="100%" style="border-radius: 15px;" />
 </p>
 
 <p align="center">
@@ -120,7 +124,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- CONNECT & WRAP-UP (Paste this right after GitHub Achievements) -->
+<!-- CONNECT & WRAP-UP -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> Let's Connect & Collaborate!
 </h3>
@@ -141,7 +145,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Feel+free+to+explore+my+repositories;Open+to+collaborations+and+new+opportunities!" alt="Footer Text" />
 </p>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=120&section=footer" />
 </p>
