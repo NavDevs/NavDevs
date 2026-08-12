@@ -104,10 +104,6 @@ From deep systems-level engineering and memory management in **C/C++**, to enter
   <img src="https://i.pinimg.com/originals/1c/aa/c5/1caac55143e3e11461c6ae59624b0f00.gif" alt="Data Flow Animation" width="100%" style="border-radius: 15px;" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 <!-- SNAKE ANIMATION -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> Contribution Snake
