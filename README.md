@@ -138,6 +138,9 @@ From deep systems-level engineering and memory management in **C/C++**, to enter
 </h3>
 
 <p align="center">
+  <a href="https://navdevs.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
   <a href="https://github.com/NavDevs">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
